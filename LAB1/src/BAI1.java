@@ -1,3 +1,5 @@
+import java.util.Scanner;
+
 /**
  * 
  */
@@ -13,7 +15,10 @@ public class BAI1 {
 	 */
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-
+		Scanner banphim = new Scanner(System.in);
+		
+		System.out.println("Ho va ten: ");
+		
 	}
 
 }
