@@ -6,7 +6,7 @@
  * @author Administrator
  *
  */
-public class BAI1 {
+public class BAI2 {
 
 	/**
 	 * @param args
